@@ -73,7 +73,7 @@ cp src/main/resources/application.properties.example src/main/resources/applicat
 mvn clean install
 mvn spring-boot:run
 
-### 🌐 Frontend Setup (React)
+###🌐 Frontend Setup (React)
 cd weather-alert-frontend
 npm install
 npm start
