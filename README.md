@@ -68,3 +68,11 @@ mv src/main/resources/application.properties.example src/main/resources/applicat
 # Add your Tomorrow.io API key to application.properties
 mvn clean install
 mvn spring-boot:run
+```
+
+### 🖥️ Frontend Setup
+```bash
+cd weather-alert-frontend
+npm install
+npm start
+```
